@@ -1,0 +1,12 @@
+{
+  "blogPosts": [
+    {
+      "title": "Implementation of Part 1",
+      "content": "In Part 1, we implemented a light/dark mode switcher. This involved adding a toggle button in the HTML, defining CSS classes for the light and dark themes, and using JavaScript to switch between these classes."
+    },
+    {
+      "title": "Implementation of Part 2",
+      "content": "In Part 2, we created a dynamic blog section that loads content from a JSON file using JavaScript. This allows for easy updates to the blog without modifying the HTML directly."
+    }
+  ]
+}
