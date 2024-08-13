@@ -2,11 +2,11 @@
   "blogPosts": [
     {
       "title": "Implementation of Part 1",
-      "content": "In Part 1, we implemented a light/dark mode switcher. This involved adding a toggle button in the HTML, defining CSS classes for the light and dark themes, and using JavaScript to switch between these classes."
+      "content": "In order to realize the function of switching between light and dark modes in our web page. First of all, create a button in the html file, secondly, create dark mode in the css file to change the background color and the text color, and finally, create a javascript file to make a listener to implement the switch between dark-mode and light-mode."
     },
     {
       "title": "Implementation of Part 2",
-      "content": "In Part 2, we created a dynamic blog section that loads content from a JSON file using JavaScript. This allows for easy updates to the blog without modifying the HTML directly."
+      "content": "To create the dynamic blog section, we firstly create the original blog html file. Then according to the html file, we create the posts.json file to store it. After that, we create the scripts.js file to fetch and display the content of the blog. However, no matter how hard we try, the content still couldn't work. We sincerely hope you could give us some feedbacks on how to fix it"
     }
   ]
 }
